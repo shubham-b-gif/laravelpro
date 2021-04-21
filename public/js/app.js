@@ -37431,7 +37431,7 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", [_c("h2", [_vm._v("artticle")])])
+    return _c("div", [_c("h2", [_vm._v("shubham article")])])
   }
 ]
 render._withStripped = true
